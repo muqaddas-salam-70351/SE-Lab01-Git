@@ -1,0 +1,6 @@
+Name: Muqaddas Salam
+Registration number:70351
+Department: FICT - BSIT
+Semester: 2nd
+Programming language: Python
+One software engineering interest: Designing
